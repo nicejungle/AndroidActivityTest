@@ -1,4 +1,4 @@
-package com.nufter.activitytest;
+package com.nufter.uiwidgettest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -20,7 +20,7 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
-        assertEquals("com.nufter.activitytest", appContext.getPackageName());
-    }
 
+        assertEquals("com.nufter.uiwidgettest", appContext.getPackageName());
+    }
 }

@@ -1,4 +1,4 @@
-package com.nufter.activitytest;
+package com.nufter.uiwidgettest;
 
 import org.junit.Test;
 
